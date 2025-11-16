@@ -325,4 +325,8 @@ INSERT INTO Actuaciones (actor_id, serie_id, personaje) VALUES
 (20, 13, 'Sansa Stark'), -- Sophie Turner en Game of Thrones
 (18, 8, 'Kamille "Cami" OConnell'); -- Gina Carano en una serie de temática similar como The Originals (no exactamente, pero por falta de una mejor opción);
 ```
+
+> [!NOTE]
+> Una vez ejecutados ambos bloques de codigo en el orden sugerido la base de datos estara cargada y lista para ser consultada.
+
 ---
