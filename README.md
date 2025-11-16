@@ -1,6 +1,6 @@
 # 📊 NetflixDB-MySQL-Workbench
 
-El proposito de este proyecto es explicar de forma breve el proceso que se debe realizar para la creación e inicialización de la base de datos NetflixDB en MySQL Workbench, asi como también responder algunas preguntas sobre su contenido.
+El proposito de este proyecto es explicar de forma breve el proceso que se debe realizar para la creación e inicialización de la base de datos NetflixDB en MySQL Workbench.
 
 ## Índice 
 * #### [Diagrama entidad relación.](https://github.com/Sebastian-Diaz-Berdecia/Analisis-NetflixDB-en-MySQL-Workbench/tree/main#-diagrama-entidad-relaci%C3%B3n-der)
